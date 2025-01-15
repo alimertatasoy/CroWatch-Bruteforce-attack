@@ -16,12 +16,12 @@ BruteForza, kullanıcıların web siteleri ve şifre kombinasyonlarını test et
 ## Uygulama Ekran Görüntüleri
 
 ### 1. BruteForza Ana Modülü
-![BruteForza Ana Modülü](https://github.com/alimertatasoy/CroWatch-Bruteforce-attack/bruteforza.png)
+![BruteForza Ana Modülü](https://github.com/alimertatasoy/CroWatch-Bruteforce-attack/blob/master/brutforza.png)
 
 ### 2. PassGenTR Şifre Üretici
-![PassGenTR Şifre Üretici](https://github.com/alimertatasoy/CroWatch-Bruteforce-attack/passgentr.png)
+![PassGenTR Şifre Üretici](https://github.com/alimertatasoy/CroWatch-Bruteforce-attack/blob/master/passgentr.png)
 
 ### 3. CROWatch Ana Sayfa
-![CROWatch Ana Sayfa](https://github.com/alimertatasoy/CroWatch-Bruteforce-attack/anasayfa.png)
+![CROWatch Ana Sayfa](https://github.com/alimertatasoy/CroWatch-Bruteforce-attack/blob/master/anasayfa.png)
 
 ---
